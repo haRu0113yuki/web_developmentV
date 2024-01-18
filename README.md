@@ -43,7 +43,7 @@ privateinfomation:"session_id"(var255),"fullName"(var255),"postTop"(int3),"postB
 		名前	タイプ	        照合順序	属性	Null	デフォルト値	  
 	1	ban	int(11)                                 はい	null	  	
 	2	name	varchar(11)	utf8_general_ci		いいえ	なし	   			
-	3	huri	varchar(11)	utf8_general_ci		いいえ	なし	  			
+	3	huri	varchar(11)	utf8_general_ci		いいえ	なし	    			
 	4	zyuusyo	varchar(40)	utf8_general_ci		いいえ	なし	  			
 	5	denwa	varchar(12)	utf8_general_ci		いいえ	なし	     
 	6	datetime　datetime				いいえ　なし  
