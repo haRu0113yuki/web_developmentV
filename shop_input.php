@@ -13,7 +13,7 @@ session_start();
 			<h1 class="name">Name</h1>
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
-			<h1><a href="reservation.html">Reserve</a></h1>
+			<h1><a href="reservation.php">Reserve</a></h1>
 			<h1><a href="shop_top.php">Shop</a></h1>
 		</header>
 		<h1 class="inputTop">購入情報を入力</h1>
@@ -68,7 +68,7 @@ session_start();
 		<footer id="samefoot">
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
-			<h1><a href="reservation.html">Reserve</a></h1>
+			<h1><a href="reservation.php">Reserve</a></h1>
 			<h1><a href="shop_top.php">Shop</a></h1>
 		</footer>
 	</body>
