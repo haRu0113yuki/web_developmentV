@@ -13,8 +13,8 @@ session_start();
 			<h1 class="name">Name</h1>
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
-			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/reservation.php">Reserve</a></h1>
-			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/shop_top.php">Shop</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/reservation.php">Reserve</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/shop_top.php">Shop</a></h1>
 		</header>
 		<h1 class="inputTop">購入情報を入力</h1>
 		<main class="mains">
@@ -68,8 +68,8 @@ session_start();
 		<footer id="samefoot">
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
-			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/reservation.php">Reserve</a></h1>
-			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/shop_top.php">Shop</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/reservation.php">Reserve</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/shop_top.php">Shop</a></h1>
 		</footer>
 	</body>
 </html>
