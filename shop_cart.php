@@ -13,8 +13,8 @@ session_start();
 			<h1 class="name">Name</h1>
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
-			<h1><a href="reservation.php">Reserve</a></h1>
-			<h1><a href="shop_top.php">Shop</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/reservation.php">Reserve</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/shop_top.php">Shop</a></h1>
 		</header>
 		<main>
 			<!-- <p>headerとfooterの箇所には記述しないで、この中に記述してください。</p> -->
@@ -111,8 +111,8 @@ session_start();
 		<footer id="samefoot">
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
-			<h1><a href="reservation.php">Reserve</a></h1>
-			<h1><a href="shop_top.php">Shop</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/reservation.php">Reserve</a></h1>
+			<h1><a href="http://localhost/web_developmentV-main/web_developmentV-main/shop_top.php">Shop</a></h1>
 		</footer>
 	</body>
 </html>
