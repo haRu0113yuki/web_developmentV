@@ -94,3 +94,77 @@ body {
 	font-size:  30px;
 	font-family: 'Cherry Swash', cursive;
 }
+
+/*reservation↓　*/
+label {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: #666;
+    font-family: 'Verdana', sans-serif;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.renraku {
+    display: flex;
+    justify-content: center; 
+}
+.zyuusyo, .denwa {
+    margin: 0 400px;
+}
+.ren {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+#zyuusyo, #denwa {
+    margin: 0 200px;
+    width: 400px;
+}
+#people {
+    display: block;
+    margin: 0 auto;
+}
+#sonota {
+    width: 800px; 
+    height: 300px; 
+    display: block;
+    margin: 0 auto;
+    vertical-align: top;
+}
+label2 {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: red;
+}
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 20px; /* Adjust the padding as needed */
+    font-size: 16px; /* Adjust the font size as needed */
+}
+.custom-button {
+    width: 150px;
+    height: 75px;
+    font-family: "cursive", sans-serif; /* フォントの指定 */
+    font-size: 16px; /* フォントサイズの指定 */
+    font-weight: bold;
+}
+.custom-button2 {
+    width: 150px;
+    height: 75px;
+    font-family: "cursive", sans-serif; /* フォントの指定 */
+    font-size: 16px; /* フォントサイズの指定 */
+    font-weight: bold;
+    background-color: #696969;
+}
